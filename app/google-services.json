@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561393335971",
+    "firebase_url": "https://qm-app-79f23.firebaseio.com",
+    "project_id": "qm-app-79f23",
+    "storage_bucket": "qm-app-79f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561393335971:android:ac1f154149da7a7ee30916",
+        "android_client_info": {
+          "package_name": "com.example.qmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561393335971-88l04fc8s60js5c8lrb5s3jfhcgfd29p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qmapp",
+            "certificate_hash": "cc41727e50ddfba6b9689358f49889ecebf136ce"
+          }
+        },
+        {
+          "client_id": "561393335971-4g95nhe46mrsrml807hs66enap1klcog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Rkeaw4zsCyzdjde0xOESPnNxAqPl0dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561393335971-4g95nhe46mrsrml807hs66enap1klcog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
